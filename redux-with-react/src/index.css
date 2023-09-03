@@ -1,0 +1,10 @@
+/** @format */
+.app {
+  display: grid;
+  height: 100vh;
+  place-content: center;
+}
+
+button {
+  cursor: pointer;
+}
